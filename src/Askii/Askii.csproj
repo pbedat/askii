@@ -35,6 +35,10 @@
     <Compile Include="Template.cs" />
     <Compile Include="Parser.cs" />
     <Compile Include="Lexer.cs" />
+    <Compile Include="IconParser.cs" />
+    <Compile Include="ButtonParser.cs" />
+    <Compile Include="Renderer.cs" />
+    <Compile Include="StringExtensions.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
